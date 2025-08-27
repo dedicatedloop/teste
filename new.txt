@@ -8,4 +8,8 @@ Gabriel
 
 11993324532
 
+ develop
 Conflito
+
+Frase aleatoria
+ main
